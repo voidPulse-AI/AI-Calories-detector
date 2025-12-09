@@ -1,0 +1,8 @@
+{
+  "name": "NutriScan AI",
+  "description": "Snap a photo of your meal to instantly estimate calories and macronutrients using Gemini Vision.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
